@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Modules
+
+docker version - `27.2`
+docker compose version - `v2.29`
+
+### Run project localy
+
+1. `docker compose build`
+2. `docker compose up`
+3. open `localhost:3000`
+
 ## Available Scripts
 
 In the project directory, you can run:
